@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [solving codeforces problem for 150 consecutive days](https://codeforces.com/profile/SajjadSoykot)
 
-- 🌱 I’m currently learning **C++, JavaScript, PHP, Python, LaTeX**
+- 🌱 I’m currently learning **C++, Python, JavaScript, PHP, LaTeX**
 
 - 👯 I’m looking to collaborate on **github**
 
