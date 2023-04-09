@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **soykot.ict@gmail.com**
 
-- 📄 Know about my experiences [https://sajjadhossainsoykot.wordpress.com/](https://sajjadhossainsoykot.wordpress.com/)
+- 📄 Know about my experiences [here](https://sajjadhossainsoykot.wordpress.com/)
 
 - ⚡ Fun fact **I travel a lot and involved in various organizations**
 
