@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadhossainsoykot&theme=radical" alt="sajjadhossainsoykot" /></p>
 
-[![Sajjad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SajjadHossainSoykot&area=true&hide_border=true&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sajjad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SajjadHossainSoykot&area=true&hide_border=true&bg_color=000000&color=ffffff&line=5194f0&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
