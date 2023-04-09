@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadhossainsoykot&show_icons=true&locale=en" alt="sajjadhossainsoykot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadhossainsoykot&" alt="sajjadhossainsoykot" /></p>
+
+[![Sajjad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SajjadHossainSoykot&bg_color=000000&color=00ff59&line=00ff59&point=00ff59&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
