@@ -30,10 +30,10 @@
 <p align="left"> <a href="https://twitter.com/sajjadsoykot" target="blank"><img src="https://img.shields.io/twitter/follow/sajjadsoykot?logo=twitter&style=for-the-badge" alt="sajjadsoykot" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadhossainsoykot&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadhossainsoykot" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadhossainsoykot" alt="sajjadhossainsoykot" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadhossainsoykot&show_icons=true&locale=en&layout=compact&theme=radical" alt="sajjadhossainsoykot" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadhossainsoykot&show_icons=true&locale=en&theme=radical" alt="sajjadhossainsoykot" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadhossainsoykot&show_icons=true&locale=en&layout=compact&theme=radical" alt="sajjadhossainsoykot" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadhossainsoykot&theme=radical" alt="sajjadhossainsoykot" /></p>
 
 [![Sajjad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SajjadHossainSoykot&bg_color=000000&color=6beeff&line=e21d72&point=e21d72&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
