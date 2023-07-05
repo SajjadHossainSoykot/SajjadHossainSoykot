@@ -2,7 +2,7 @@
 #### A passionate tech enthusiast and ICT (Engineering) student from Bangladesh.
 ![A passionate tech enthusiast and ICT (Engineering) student from Bangladesh.](https://pbs.twimg.com/profile_banners/1008737529271422976/1584503306/600x200)
 
-- 🔭 I’m currently working on [solving codeforces problem for 150 consecutive days](https://codeforces.com/profile/SajjadSoykot)
+- 🔭 I’m currently working on [solving codeforces problem for 365 consecutive days](https://codeforces.com/profile/SajjadSoykot)
 
 - 🌱 I’m currently learning **C++, Python, JavaScript, PHP, LaTeX**
 
