@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **github**
 
-- 📫 How to reach me **soykot.ict@gmail.com**
+- 📫 How to reach me **soykot.ict@gmail.com** **soykot@ieee.org**
 
 - 📄 Know about my experiences [here](https://sajjadhossainsoykot.wordpress.com/)
 
