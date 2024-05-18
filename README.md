@@ -2,7 +2,7 @@
 #### A passionate tech enthusiast and B.Sc(Engg) in ICT student from Islamic University, Bangladesh.
 ![A passionate tech enthusiast and ICT (Engineering) student from Bangladesh.](https://pbs.twimg.com/profile_banners/1008737529271422976/1584503306/600x200)
 
-- 🔭 I’m currently working on [Google UX Design Professional Certificate at Coursera](https://www.coursera.org/professional-certificates/google-ux-design?)
+- 🔭 I’m currently working on the course [Google UX Design Professional Certificate at Coursera](https://www.coursera.org/professional-certificates/google-ux-design?)
 
 - 🌱 I’m currently learning **C++, Python, JavaScript, PHP, LaTeX, NodeJS, AngularJS**
 
