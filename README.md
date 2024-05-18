@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on the course [Google UX Design Professional Certificate at Coursera](https://www.coursera.org/professional-certificates/google-ux-design?)
 
-- 🌱 I’m currently learning **C++, Python, JavaScript, PHP, LaTeX, NodeJS, AngularJS**
+- 🌱 I’m currently learning **C++, Python, JavaScript, PHP, LaTeX, NodeJS, React**
 
 - 👯 I’m looking to collaborate on **github**
 
