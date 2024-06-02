@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **github**
 
-- 📫 How to reach me..![My LinkedIn] (https://www.linkedin.com/in/sajjadhossainsoykot/)
+- 📫 How to reach me.. [My LinkedIn](https://www.linkedin.com/in/sajjadhossainsoykot/)
 
-- 📄 Know about my experiences ![here](https://sajjadhossainsoykot.wordpress.com/)
+- 📄 Know about my experiences [here](https://sajjadhossainsoykot.wordpress.com/)
 
 - ⚡ Fun fact **I travel a lot and am involved in various organizations**
 
