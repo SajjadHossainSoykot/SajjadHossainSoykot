@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on **Front-end Development, UI/UX Design**
 
-- 🌱 I’m currently learning **C++, Python, JavaScript, PHP, LaTeX, NodeJS, React**
+- 🌱 I’m currently learning **JavaScript, Python, PHP, NodeJS, React**
 
 - 👯 I’m looking to collaborate on **github**
 
-- 📫 How to reach me **soykot.ict@gmail.com**, **soykot@ieee.org**
+- 📫 How to reach me..![My LinkedIn] (https://www.linkedin.com/in/sajjadhossainsoykot/)
 
-- 📄 Know about my experiences [here](https://sajjadhossainsoykot.wordpress.com/)
+- 📄 Know about my experiences ![here](https://sajjadhossainsoykot.wordpress.com/)
 
-- ⚡ Fun fact **I travel a lot and involved in various organizations**
+- ⚡ Fun fact **I travel a lot and am involved in various organizations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
