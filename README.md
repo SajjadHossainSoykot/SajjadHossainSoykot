@@ -29,7 +29,7 @@
 </p>
 
 
-### Languages and Tools:
+# Languages and Tools:
 
 <p align="center">
     <h4>Programming Languages:</h4>
@@ -40,28 +40,47 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,react,vue,bootstrap,tailwind,php,wordpress,webflow&theme=dark&perline=6" />
 </p>
 <p align="center">
-<h4>Databases:</h4>
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<h4>Server and Databases:</h4>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,googlecloud,netlify,vercel&theme=dark" />
 </p>
 <p align="center">
-    <h4>Tools & Platforms:</h4>
-    <img src="https://skillicons.dev/icons?i=figma,git,github,netlify,vercel,vscode&theme=dark" />
+    <h4> Tools and Platforms:</h4>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 <p align="center">
-    <h4>Design & Media:</h4>
-    <img src="https://skillicons.dev/icons?i=ai,ps,pr&theme=dark" />
+    <h4>Data Science:</h4>
+    <img src="https://skillicons.dev/icons?i=matlab,octave&theme=dark" />
+</p>
+<p align="center">
+    <h4>Design:</h4>
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma&theme=dark" />
 </p>
 <p align="center">
     <h4>Miscellaneous:</h4>
-    <img src="https://skillicons.dev/icons?i=latex,matlab,discord,windows&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=latex,powershell,discord,windows,linux&theme=dark" />
 </p>
 
 <p align="center"> <a href="https://twitter.com/sajjadsoykot" target="blank"><img src="https://img.shields.io/twitter/follow/sajjadsoykot?logo=twitter&style=for-the-badge" alt="sajjadsoykot" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sajjadhossainsoykot&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadhossainsoykot" /> </p>
+
+# 📊 GitHub Stats:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadhossainsoykot&theme=radical" alt="sajjadhossainsoykot" /></a> </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadhossainsoykot&show_icons=true&locale=en&theme=radical" alt="sajjadhossainsoykot" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadhossainsoykot&show_icons=true&locale=en&layout=compact&theme=radical" alt="sajjadhossainsoykot" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadhossainsoykot&theme=radical" alt="sajjadhossainsoykot" /></p>
 
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SajjadHossainSoykot&theme=dark&hide_border=false)<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SajjadHossainSoykot&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SajjadHossainSoykot&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Sajjad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SajjadHossainSoykot&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
