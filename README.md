@@ -57,7 +57,7 @@
 </p>
 <p align="center">
     <h4>Miscellaneous:</h4>
-    <img src="https://skillicons.dev/icons?i=latex,powershell,discord,windows,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=latex,bash,powershell,discord,windows,linux&theme=dark" />
 </p>
 
 <p align="center"> <a href="https://twitter.com/sajjadsoykot" target="blank"><img src="https://img.shields.io/twitter/follow/sajjadsoykot?logo=twitter&style=for-the-badge" alt="sajjadsoykot" /></a> </p>
