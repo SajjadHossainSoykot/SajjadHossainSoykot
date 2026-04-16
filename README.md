@@ -65,6 +65,7 @@
 
 # 📊 GitHub Stats:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadhossainsoykot&theme=radical" alt="sajjadhossainsoykot" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SajjadHossainSoykot&theme=onedark)](https://github.com/SajjadHossainSoykot/github-profile-trophy)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadhossainsoykot&show_icons=true&locale=en&theme=radical" alt="sajjadhossainsoykot" /></p>
