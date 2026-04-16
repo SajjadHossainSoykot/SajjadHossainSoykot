@@ -35,25 +35,25 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sajjadhossainsoykot">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://x.com/sajjadsoykot">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://fb.com/sajjadhossainsoykot">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/sajjad_hossain_soykot">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/c/sajjadhossainsoykot">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/sajjadsoykot">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge" />
   </a>
   <a href="https://discord.gg/bfuyjQk">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -63,37 +63,22 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
 </p>
 
 ### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,react,vue,bootstrap,tailwind,php,wordpress,webflow&theme=dark&perline=6" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,react,vue,bootstrap,tailwind,php,wordpress,webflow&theme=dark&perline=6" />
 </p>
 
 ### 🗄️ Server and Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,googlecloud,netlify,vercel&theme=dark" alt="Server and Database" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,googlecloud,netlify,vercel&theme=dark" />
 </p>
 
 ### ⚙️ Tools and Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools and Platforms" />
-</p>
-
-### 📊 Data Science
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab,octave&theme=dark" alt="Data Science" />
-</p>
-
-### 🎨 Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,figma&theme=dark" alt="Design Tools" />
-</p>
-
-### 🧩 Miscellaneous
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=latex,bash,powershell,discord,windows,linux&theme=dark" alt="Miscellaneous Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -106,15 +91,60 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Academic & Lab Projects
+
+These repositories contain my **ICT engineering laboratory and coursework projects**, showcasing practical implementations and technical understanding.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SajjadHossainSoykot&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajjadHossainSoykot&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/SajjadHossainSoykot/ICT-4102-Information-Coding-and-Transmission-Laboratory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-4102-Information-Coding-and-Transmission-Laboratory&theme=radical" />
+  </a>
+  <a href="https://github.com/SajjadHossainSoykot/ICT-4110-Cryptography-and-Network-Security-Laboratory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-4110-Cryptography-and-Network-Security-Laboratory&theme=radical" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjadHossainSoykot&theme=dark" alt="GitHub Streak" />
+  <a href="https://github.com/SajjadHossainSoykot/ICT-3206-Computer-Architecture-and-Organization-Lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-3206-Computer-Architecture-and-Organization-Lab&theme=radical" />
+  </a>
+  <a href="https://github.com/SajjadHossainSoykot/ICT-3102-Electromagnetic-Theory-and-Antenna-Laboratory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-3102-Electromagnetic-Theory-and-Antenna-Laboratory&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 🧪 Learning Projects
+
+These projects reflect my **experiments, personal learning, and creative implementations**.
+
+<p align="center">
+  <a href="https://github.com/SajjadHossainSoykot/ramadan_calender">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ramadan_calender&theme=radical" />
+  </a>
+  <a href="https://github.com/SajjadHossainSoykot/EDGEIUICT-201-Final-Project-Healthcare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=EDGEIUICT-201-Final-Project-Healthcare&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=Typing-Speed-Accuracy-Test-Project&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SajjadHossainSoykot&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajjadHossainSoykot&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjadHossainSoykot&theme=dark" />
 </p>
 
 ---
@@ -122,7 +152,5 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajjadHossainSoykot&theme=react" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajjadHossainSoykot&theme=react" />
 </p>
-
----
