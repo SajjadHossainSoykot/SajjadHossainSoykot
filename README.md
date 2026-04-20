@@ -136,6 +136,22 @@ These projects reflect my **experiments, personal learning, and creative impleme
 
 ---
 
+## 🤝 Developer Experience
+
+I have been actively involved as a **developer** in real-world projects for organizations and institutions:
+
+### 🌐 IEEE Computer Society Bangladesh Chapter
+- Contributed to the development of the official website as **Graphics and Multimedia Content Coordinator** (Executive Committee 2026)  
+- 🔗 https://ieeecsbdc.org/excom-26  
+
+### 🏫 Department of ICT, Islamic University
+- Worked as part of the developer team on official institutional systems  
+- Maintained the **Silver Jubilee program registration system** and provided web support  
+- Managed student portal systems and contributed to the **front-end design and system development** of the ICT IU official website  
+- 🔗 https://www.ictiu.ac.bd/developer-team  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
