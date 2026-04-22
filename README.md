@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sajjad Hossain Soykot</h1>
 <h3 align="center">A passionate tech enthusiast and ICT engineering student from Bangladesh</h3>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" />
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Design+Enthusiast;JavaScript+%7C+React+%7C+Node.js+Learner;Always+curious+to+build+and+learn+more" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SajjadHossainSoykot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://x.com/sajjadsoykot">
-    <img src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white" alt="X Profile" />
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=SajjadHossainSoykot&color=brightgreen&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/SajjadHossainSoykot?style=for-the-badge&color=blue&labelColor=black)](https://github.com/SajjadHossainSoykot?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/SajjadHossainSoykot?style=for-the-badge&color=yellow&labelColor=black)](https://github.com/SajjadHossainSoykot?tab=repositories)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" />
 
 <p align="center">
   <img src="https://pbs.twimg.com/profile_banners/1008737529271422976/1584503306/600x200" alt="Banner" />
 </p>
+
+</div>
 
 ---
 
@@ -155,7 +158,7 @@ I have been actively involved as a **developer** in real-world projects for orga
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SajjadHossainSoykot&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SajjadHossainSoykot&theme=radical&hide_border=false&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajjadHossainSoykot&layout=compact&theme=radical" />
 </p>
 
