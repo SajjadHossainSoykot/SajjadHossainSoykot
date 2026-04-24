@@ -66,7 +66,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=dark" />
 </p>
 
 ### 🌐 Web Development
@@ -79,9 +79,40 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,googlecloud,netlify,vercel&theme=dark" />
 </p>
 
+### 🎨 Design & Creative Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma,svg&theme=dark" />
+</p>
+
+### 🧠 Data Science and Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+       style="background-color:#1e1e2e; padding:8px; border-radius:12px;"
+       height="32"/>
+</p>
+
+### 📝 Documentation & Markup
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=latex,md,regex&theme=dark" />
+</p>
+
+### 💻 Operating Systems
+<p align="center">
+  <img src="https://iconsdb.com/icons/preview/white/apple-xxl.png"
+       height="36"
+       style="background-color:#1e1e2e; padding:6px; border-radius:12px;" />
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
+</p>
+
 ### ⚙️ Tools and Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell&theme=dark" />
+</p>
+
+### 💬 Communication Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord,linkedin,gmail&theme=dark" />
 </p>
 
 ---
@@ -90,6 +121,7 @@
 
 - Building better **frontend interfaces**
 - Improving **React** and **Node.js** skills
+- Learning Machine Learning and Computer Vision techniques
 - Learning more about **modern web tools and clean UI design**
 
 ---
