@@ -66,27 +66,27 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=light" />
 </p>
 
 ### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,react,vue,bootstrap,tailwind,php,wordpress,webflow&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,react,vue,bootstrap,tailwind,php,wordpress,webflow&theme=light&perline=6" />
 </p>
 
 ### 🗄️ Server and Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,googlecloud,netlify,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,googlecloud,netlify,vercel&theme=light" />
 </p>
 
 ### 🎨 Design & Creative Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma,svg&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma,svg&theme=light" />
 </p>
 
 ### 🧠 Data Science and Computer Vision
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=light" />
   <img src="https://dl.svgcdn.com/png/logos/jupyter-400.png" height="48"/>
 </p>
 
@@ -99,17 +99,17 @@
 <p align="center">
   <img src="https://img.icons8.com/fluency/48/mac-os.png"
        height="48"/>
-  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" />
 </p>
 
 ### ⚙️ Tools and Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell&theme=light" />
 </p>
 
 ### 💬 Communication Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,linkedin,gmail&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=discord,linkedin,gmail&theme=light" />
 </p>
 
 ---
