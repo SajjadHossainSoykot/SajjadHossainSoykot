@@ -87,9 +87,7 @@
 ### 🧠 Data Science and Computer Vision
 <p align="center">
   <img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-       style="background-color:#1e1e2e; padding:8px; border-radius:12px;"
-       height="32"/>
+  <img src="https://dl.svgcdn.com/png/logos/jupyter-400.png" height="40"/>
 </p>
 
 ### 📝 Documentation & Markup
@@ -99,7 +97,7 @@
 
 ### 💻 Operating Systems
 <p align="center">
-  <img src="https://iconsdb.com/icons/preview/white/apple-xxl.png"
+  <img src="https://img.icons8.com/fluency/48/mac-os.png"
        height="36"
        style="background-color:#1e1e2e; padding:6px; border-radius:12px;" />
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" />
