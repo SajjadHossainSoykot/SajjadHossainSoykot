@@ -76,7 +76,7 @@
 
 ### 🗄️ Server and Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,googlecloud,netlify,vercel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,netlify,vercel&theme=light" />
 </p>
 
 ### 🎨 Design & Creative Tools
@@ -92,7 +92,7 @@
 
 ### 📝 Documentation & Markup
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=latex,md,regex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=latex,md,regex&theme=light" />
 </p>
 
 ### 💻 Operating Systems
