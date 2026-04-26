@@ -129,19 +129,19 @@ These repositories contain my **ICT engineering laboratory and coursework projec
 
 <p align="center">
   <a href="https://github.com/SajjadHossainSoykot/ICT-4102-Information-Coding-and-Transmission-Laboratory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-4102-Information-Coding-and-Transmission-Laboratory&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-4102-Information-Coding-and-Transmission-Laboratory&theme=buefy" />
   </a>
   <a href="https://github.com/SajjadHossainSoykot/ICT-4110-Cryptography-and-Network-Security-Laboratory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-4110-Cryptography-and-Network-Security-Laboratory&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-4110-Cryptography-and-Network-Security-Laboratory&theme=buefy" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SajjadHossainSoykot/ICT-3206-Computer-Architecture-and-Organization-Lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-3206-Computer-Architecture-and-Organization-Lab&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-3206-Computer-Architecture-and-Organization-Lab&theme=buefy" />
   </a>
   <a href="https://github.com/SajjadHossainSoykot/ICT-3102-Electromagnetic-Theory-and-Antenna-Laboratory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-3102-Electromagnetic-Theory-and-Antenna-Laboratory&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-3102-Electromagnetic-Theory-and-Antenna-Laboratory&theme=buefy" />
   </a>
 </p>
 
@@ -153,16 +153,16 @@ These projects reflect my **experiments, personal learning, and creative impleme
 
 <p align="center">
   <a href="https://github.com/SajjadHossainSoykot/ramadan_calender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ramadan_calender&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ramadan_calender&theme=buefy" />
   </a>
   <a href="https://github.com/SajjadHossainSoykot/EDGEIUICT-201-Final-Project-Healthcare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=EDGEIUICT-201-Final-Project-Healthcare&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=EDGEIUICT-201-Final-Project-Healthcare&theme=buefy" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=Typing-Speed-Accuracy-Test-Project&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=Typing-Speed-Accuracy-Test-Project&theme=buefy" />
   </a>
 </p>
 
@@ -187,12 +187,12 @@ I have been actively involved as a **developer** in real-world projects for orga
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SajjadHossainSoykot&theme=radical&hide_border=false&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajjadHossainSoykot&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SajjadHossainSoykot&theme=buefy&hide_border=false&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajjadHossainSoykot&layout=compact&theme=buefy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjadHossainSoykot&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjadHossainSoykot&theme=buefy" />
 </p>
 
 ---
