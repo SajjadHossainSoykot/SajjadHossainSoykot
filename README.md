@@ -71,7 +71,7 @@
 
 ### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,npm,react,nextjs,vite,bootstrap,tailwind,php,wordpress,webflow&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,npm,react,nextjs,typescript,vite,bootstrap,tailwind,php,wordpress&theme=light&perline=6" />
 </p>
 
 ### 🌐 Backend Development
