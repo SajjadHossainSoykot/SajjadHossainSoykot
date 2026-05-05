@@ -69,9 +69,14 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=light" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,react,vue,bootstrap,tailwind,php,wordpress,webflow&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,npm,react,nextjs,vite,bootstrap,tailwind,php,wordpress,webflow&theme=light&perline=6" />
+</p>
+
+### 🌐 Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,express,nodejs,django&theme=light&perline=6" />
 </p>
 
 ### 🗄️ Server and Database
@@ -187,12 +192,9 @@ I have been actively involved as a **developer** in real-world projects for orga
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SajjadHossainSoykot&theme=buefy&hide_border=false&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=SajjadHossainSoykot&layout=compact&theme=buefy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajjadHossainSoykot&theme=buefy" />
+  <img height="200" src="https://github-readme-stats.shion.dev/api?username=SajjadHossainSoykot&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=SajjadHossainSoykot&theme=default_repocard&hide_border=false" />
+  <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SajjadHossainSoykot&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
