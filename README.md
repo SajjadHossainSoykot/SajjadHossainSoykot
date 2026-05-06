@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Design+Enthusiast;JavaScript+%7C+React+%7C+Node.js+Learner;Always+curious+to+build+and+learn+more" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Web+App+Developer;UI%2FUX+Design+Enthusiast;Computer+Vision+%7C+AI-ML+%7C+Researcher;Always+curious+to+build+and+learn+more" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,8 +25,8 @@
 
 ## 🔥 About Me
 
-- 🔭 Currently working on **Frontend Development and UI/UX Design**
-- 🌱 Currently learning **JavaScript, Python, PHP, Node.js, and React**
+- 🔭 Currently working on **Full Stack Development**
+- 🌱 Currently learning **AI-ML, LLM, Computer Vision, Image Processing**
 - 👯 Open to collaborating on **GitHub projects**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sajjadhossainsoykot/)
 - 📄 Check out my experiences [here](https://sajjadhossainsoykot.wordpress.com/)
@@ -130,48 +130,43 @@
 
 ## 🎓 Academic & Lab Projects
 
-These repositories contain my **ICT engineering laboratory and coursework projects**, showcasing practical implementations and technical understanding.
+ICT engineering laboratory and coursework repositories with practical implementations and technical experiments.
 
-<p align="center">
-  <a href="https://github.com/SajjadHossainSoykot/ICT-4102-Information-Coding-and-Transmission-Laboratory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-4102-Information-Coding-and-Transmission-Laboratory&theme=buefy" />
-  </a>
-  <a href="https://github.com/SajjadHossainSoykot/ICT-4110-Cryptography-and-Network-Security-Laboratory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-4110-Cryptography-and-Network-Security-Laboratory&theme=buefy" />
-  </a>
-</p>
+- [ICT-4110 Cryptography and Network Security Laboratory](https://github.com/SajjadHossainSoykot/ICT-4110-Cryptography-and-Network-Security-Laboratory)  
+  Classical and modern cryptography lab experiments, algorithms, and reports.
 
-<p align="center">
-  <a href="https://github.com/SajjadHossainSoykot/ICT-3206-Computer-Architecture-and-Organization-Lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-3206-Computer-Architecture-and-Organization-Lab&theme=buefy" />
-  </a>
-  <a href="https://github.com/SajjadHossainSoykot/ICT-3102-Electromagnetic-Theory-and-Antenna-Laboratory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ICT-3102-Electromagnetic-Theory-and-Antenna-Laboratory&theme=buefy" />
-  </a>
-</p>
+- [ICT-4104 Digital Signal and Image Processing Laboratory](https://github.com/SajjadHossainSoykot/ICT-4104-Digital-Signal-and-Image-Processing-Laboratory)  
+  Laboratory works on digital signal processing, image processing, and related computational techniques.
+
+- [ICT-4102 Information Coding and Transmission Laboratory](https://github.com/SajjadHossainSoykot/ICT-4102-Information-Coding-and-Transmission-Laboratory)  
+Practical implementations related to information coding and transmission systems.
+
+- [ICT-3206 Computer Architecture and Organization Lab](https://github.com/SajjadHossainSoykot/ICT-3206-Computer-Architecture-and-Organization-Lab)  
+  Lab works focused on computer architecture, organization, and system-level concepts.
+
+- [ICT-3102 Electromagnetic Theory and Antenna Laboratory](https://github.com/SajjadHossainSoykot/ICT-3102-Electromagnetic-Theory-and-Antenna-Laboratory)  
+  Practical works related to electromagnetic theory, antenna design, and communication concepts.
 
 ---
 
 ## 🧪 Learning Projects
 
-These projects reflect my **experiments, personal learning, and creative implementations**.
+Personal learning, creative implementations, and full-stack development practice.
 
-<p align="center">
-  <a href="https://github.com/SajjadHossainSoykot/ramadan_calender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=ramadan_calender&theme=buefy" />
-  </a>
-  <a href="https://github.com/SajjadHossainSoykot/EDGEIUICT-201-Final-Project-Healthcare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=EDGEIUICT-201-Final-Project-Healthcare&theme=buefy" />
-  </a>
-</p>
+- [CipherXploreSS Web Portal](https://github.com/SajjadHossainSoykot/Cryptography_Web_Portal)  
+  A full-stack interactive cryptography learning platform built with FastAPI, Next.js, REST API, and responsive UI.
 
-<p align="center">
-  <a href="https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SajjadHossainSoykot&repo=Typing-Speed-Accuracy-Test-Project&theme=buefy" />
-  </a>
-</p>
+- [Ramadan Calendar](https://github.com/SajjadHossainSoykot/ramadan_calender)  
+  A creative calendar-based project designed for Ramadan schedule tracking and presentation.
+
+- [EDGE IUICT-201 Final Project Healthcare](https://github.com/SajjadHossainSoykot/EDGEIUICT-201-Final-Project-Healthcare)  
+  A healthcare-focused project created as part of the EDGE IUICT-201 final project work.
+
+- [Typing Speed Accuracy Test Project](https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project)  
+  A typing speed and accuracy testing project for measuring typing performance.
 
 ---
+
 
 ## 🤝 Developer Experience
 
