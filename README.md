@@ -74,7 +74,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,npm,react,nextjs,typescript,vite,bootstrap,tailwind,php,wordpress&theme=light&perline=6" />
 </p>
 
-### 🌐 Backend Development
+### ⚙️ Backend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,express,nodejs,django&theme=light&perline=6" />
 </p>
@@ -86,28 +86,37 @@
 
 ### 🎨 Design & Creative Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma,svg&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma&theme=light" />
+  <img src="https://img.icons8.com/color/48/canva.png" height="48" alt="Canva"/>
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="48" alt="draw.io"/>
 </p>
 
 ### 🧠 Data Science and Computer Vision
 <p align="center">
   <img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=light" />
-  <img src="https://dl.svgcdn.com/png/logos/jupyter-400.png" height="48"/>
+  <img src="https://dl.svgcdn.com/png/logos/jupyter-400.png" height="48" alt="Jupyter Notebook"/>
 </p>
 
 ### 📝 Documentation & Markup
 <p align="center">
   <img src="https://skillicons.dev/icons?i=latex,md,regex&theme=light" />
+  <br/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png" height="48" alt="Microsoft Word"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="48" alt="Microsoft Excel"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="48" alt="Microsoft PowerPoint"/>
+  <img src="https://img.icons8.com/color/48/google-docs--v1.png" height="48" alt="Google Docs"/>
+  <img src="https://img.icons8.com/color/48/google-sheets.png" height="48" alt="Google Sheets"/>
+  <img src="https://img.icons8.com/color/48/google-forms-new-logo-1.png" height="48" alt="Google Forms"/>
+  <img src="https://img.icons8.com/color/48/google-slides.png" height="48" alt="Google Slides"/>
 </p>
 
 ### 💻 Operating Systems
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/mac-os.png"
-       height="48"/>
+  <img src="https://img.icons8.com/fluency/48/mac-os.png" height="48" alt="macOS"/>
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" />
 </p>
 
-### ⚙️ Tools and Platforms
+### 🔀 Version Control & Development Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell&theme=light" />
 </p>
