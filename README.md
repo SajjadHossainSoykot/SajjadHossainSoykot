@@ -153,6 +153,18 @@ I have been actively involved as a **developer** in real-world projects for orga
 
 ---
 
+## 🎨 Design Portfolio
+
+I have archived **hundreds of my graphic design works** from **2019 to the present**, representing a major part of my creative journey in visual communication, branding, layout design, and digital content creation.
+
+The archive includes posters, banners, event designs, social media creatives, certificates, visiting cards, diagrams, academic visuals, and organizational promotional materials. Although I have missed many earlier works due to device changes and lost files, this collection still reflects my continuous learning and practical experience in design.
+
+**Tools:** Adobe Photoshop, Adobe Illustrator, Canva, Figma, Draw.io, Microsoft PowerPoint
+
+🔗 [View My Design Portfolio - Designs By Sajjad](https://drive.google.com/drive/folders/1ykvjED7tETQxyQd2iE7mD4Dr7vWttLCJ?usp=sharing)
+
+---
+
 ## 🧪 Learning Projects
 
 Personal learning, creative implementations, and full-stack development practice.
