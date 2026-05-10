@@ -137,6 +137,43 @@
 
 ---
 
+## 🤝 Developer Experience
+
+I have been actively involved as a **developer** in real-world projects for organizations and institutions:
+
+### 🏫 Department of ICT, Islamic University
+- Worked as part of the developer team on official institutional systems  
+- Maintained the **Silver Jubilee program registration system** and provided web support  
+- Managed student portal systems and contributed to the **front-end design and system development** of the ICT IU official website  
+- 🔗 https://www.ictiu.ac.bd/developer-team  
+
+### 🌐 IEEE Computer Society Bangladesh Chapter
+- Contributed to the development of the official website as **Graphics and Multimedia Content Coordinator** (Executive Committee 2026)  
+- 🔗 https://ieeecsbdc.org/excom-26  
+
+---
+
+## 🧪 Learning Projects
+
+Personal learning, creative implementations, and full-stack development practice.
+
+- [CipherXploreSS Web Portal](https://github.com/SajjadHossainSoykot/Cryptography_Web_Portal)  
+  A full-stack interactive cryptography learning platform built with FastAPI, Next.js, REST API, and responsive UI.
+
+- [Ramadan Calendar](https://github.com/SajjadHossainSoykot/ramadan_calender)  
+  A creative calendar-based react project designed for Ramadan schedule tracking and presentation.
+
+- [Chatbot Project](https://github.com/SajjadHossainSoykot/chatbot-project)  
+  A simple chatbot implementation using Python and API techniques for basic conversational interactions.
+
+- [EDGE IUICT-201 Final Project Healthcare](https://github.com/SajjadHossainSoykot/EDGEIUICT-201-Final-Project-Healthcare)  
+  A healthcare-focused project created as part of the EDGE IUICT-201 final project work.
+
+- [Typing Speed Accuracy Test Project](https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project)  
+  A CLI based typing speed and accuracy testing project for measuring typing performance using C++
+
+---
+
 ## 🎓 Academic & Lab Projects
 
 ICT engineering laboratory and coursework repositories with practical implementations and technical experiments.
@@ -155,41 +192,6 @@ Practical implementations related to information coding and transmission systems
 
 - [ICT-3102 Electromagnetic Theory and Antenna Laboratory](https://github.com/SajjadHossainSoykot/ICT-3102-Electromagnetic-Theory-and-Antenna-Laboratory)  
   Practical works related to electromagnetic theory, antenna design, and communication concepts.
-
----
-
-## 🧪 Learning Projects
-
-Personal learning, creative implementations, and full-stack development practice.
-
-- [CipherXploreSS Web Portal](https://github.com/SajjadHossainSoykot/Cryptography_Web_Portal)  
-  A full-stack interactive cryptography learning platform built with FastAPI, Next.js, REST API, and responsive UI.
-
-- [Ramadan Calendar](https://github.com/SajjadHossainSoykot/ramadan_calender)  
-  A creative calendar-based project designed for Ramadan schedule tracking and presentation.
-
-- [EDGE IUICT-201 Final Project Healthcare](https://github.com/SajjadHossainSoykot/EDGEIUICT-201-Final-Project-Healthcare)  
-  A healthcare-focused project created as part of the EDGE IUICT-201 final project work.
-
-- [Typing Speed Accuracy Test Project](https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project)  
-  A typing speed and accuracy testing project for measuring typing performance.
-
----
-
-
-## 🤝 Developer Experience
-
-I have been actively involved as a **developer** in real-world projects for organizations and institutions:
-
-### 🌐 IEEE Computer Society Bangladesh Chapter
-- Contributed to the development of the official website as **Graphics and Multimedia Content Coordinator** (Executive Committee 2026)  
-- 🔗 https://ieeecsbdc.org/excom-26  
-
-### 🏫 Department of ICT, Islamic University
-- Worked as part of the developer team on official institutional systems  
-- Maintained the **Silver Jubilee program registration system** and provided web support  
-- Managed student portal systems and contributed to the **front-end design and system development** of the ICT IU official website  
-- 🔗 https://www.ictiu.ac.bd/developer-team  
 
 ---
 
