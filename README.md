@@ -175,6 +175,9 @@ Personal learning, creative implementations, and full-stack development practice
 - [Ramadan Calendar](https://github.com/SajjadHossainSoykot/ramadan_calender)  
   A creative calendar-based react project designed for Ramadan schedule tracking and presentation.
 
+- [Interactive Digital Invitation Card](https://github.com/SajjadHossainSoykot/invitation-card)  
+  A modern and reusable digital invitation card web portal using Next.js, React, TypeScript, Tailwind CSS, and Lucide React
+
 - [Chatbot Project](https://github.com/SajjadHossainSoykot/chatbot-project)  
   A simple chatbot implementation using Python and API techniques for basic conversational interactions.
 
