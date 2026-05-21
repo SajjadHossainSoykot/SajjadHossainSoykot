@@ -169,6 +169,9 @@ The archive includes posters, banners, event designs, social media creatives, ce
 
 Personal learning, creative implementations, and full-stack development practice.
 
+- [QR Vision SS](https://github.com/SajjadHossainSoykot/QR-Vision-Project)  
+  A full-stack QR code generator, decoder, and real-time webcam scanner built with Python, FastAPI, OpenCV, Next.js, TypeScript, Tailwind CSS, browser-based camera access, and API integration.
+
 - [CipherXploreSS Web Portal](https://github.com/SajjadHossainSoykot/Cryptography_Web_Portal)  
   A full-stack interactive cryptography learning platform built with FastAPI, Next.js, REST API, and responsive UI.
 
@@ -176,7 +179,7 @@ Personal learning, creative implementations, and full-stack development practice
   A creative calendar-based react project designed for Ramadan schedule tracking and presentation.
 
 - [Interactive Digital Invitation Card](https://github.com/SajjadHossainSoykot/invitation-card)  
-  A modern and reusable digital invitation card web portal using Next.js, React, TypeScript, Tailwind CSS, and Lucide React
+  A modern and reusable digital invitation card web portal using Next.js, React, TypeScript, Tailwind CSS, and Lucide React.
 
 - [Chatbot Project](https://github.com/SajjadHossainSoykot/chatbot-project)  
   A simple chatbot implementation using Python and API techniques for basic conversational interactions.
@@ -185,9 +188,7 @@ Personal learning, creative implementations, and full-stack development practice
   A healthcare-focused project created as part of the EDGE IUICT-201 final project work.
 
 - [Typing Speed Accuracy Test Project](https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project)  
-  A CLI based typing speed and accuracy testing project for measuring typing performance using C++
-
----
+  A CLI based typing speed and accuracy testing project for measuring typing performance using C++.
 
 ## 🎓 Academic & Lab Projects
 
