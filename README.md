@@ -141,6 +141,14 @@
 
 I have been actively involved as a **developer** in real-world projects for organizations and institutions:
 
+### 🏢 Unnayan Sahayak Sangstha (USS)
+- Working as the **Lead Developer & Digital Transformation Coordinator**  
+- Responsible for designing and developing the official digital ecosystem of USS  
+- Leading development of the official website and admin portal  
+- Implementing modern full-stack architecture using Next.js, Firebase, MongoDB and Tailwind CSS  
+- Supporting SEO, deployment, and long-term digital infrastructure planning  
+- 🔗 https://www.ussbd.org/developer  
+
 ### 🏫 Department of ICT, Islamic University
 - Worked as part of the developer team on official institutional systems  
 - Maintained the **Silver Jubilee program registration system** and provided web support  
@@ -150,8 +158,6 @@ I have been actively involved as a **developer** in real-world projects for orga
 ### 🌐 IEEE Computer Society Bangladesh Chapter
 - Contributed to the development of the official website as **Graphics and Multimedia Content Coordinator** (Executive Committee 2026)  
 - 🔗 https://ieeecsbdc.org/excom-26  
-
----
 
 ## 🎨 Design Portfolio
 
