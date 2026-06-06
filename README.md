@@ -144,7 +144,8 @@ I have been actively involved as a **developer** in real-world projects for orga
 ### 🏢 Unnayan Sahayak Sangstha (USS)
 - Working as the **Lead Developer & Digital Transformation Coordinator**  
 - Responsible for designing and developing the official digital ecosystem of USS  
-- Leading development of the official website and admin portal  
+- Leading development of the official website and admin portal 
+- Implemented modern employee management systems, digital content management, and organizational communication tools
 - Implementing modern full-stack architecture using Next.js, Firebase, MongoDB and Tailwind CSS  
 - Supporting SEO, deployment, and long-term digital infrastructure planning  
 - 🔗 https://www.ussbd.org/developer  
