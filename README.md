@@ -157,8 +157,10 @@ I have been actively involved as a **developer** in real-world projects for orga
 - 🔗 https://www.ictiu.ac.bd/developer-team  
 
 ### 🌐 IEEE Computer Society Bangladesh Chapter
-- Contributed to the development of the official website as **Graphics and Multimedia Content Coordinator** (Executive Committee 2026)  
-- 🔗 https://ieeecsbdc.org/excom-26  
+- Worked as Graphics and Multimedia Content Coordinator for the **IEEE Computer Society Bangladesh Chapter** Executive Committee 2026
+- Contributed to the development and maintenance of the official website as the **Mentor of Web and IT Committee 2026**
+- Provided technical support and guidance for web development and digital initiatives of the chapter
+- 🔗 https://www.ieeecsbdc.org/web-and-it-2026
 
 ## 🎨 Design Portfolio
 
