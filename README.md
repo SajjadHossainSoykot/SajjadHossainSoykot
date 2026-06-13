@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" />
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1008737529271422976/1584503306/600x200" alt="Banner" />
+  <img src="https://res.cloudinary.com/dokj6bayd/image/upload/q_auto/f_auto/v1781387399/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
 </p>
 
 </div>
