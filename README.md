@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sajjad Hossain Soykot</h1>
-<h3 align="center">A passionate tech enthusiast and ICT engineering student from Bangladesh</h3>
 <p align="center">
   <img src="https://res.cloudinary.com/dokj6bayd/image/upload/q_auto/f_auto/v1781387399/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
 </p>
+<h1 align="center">Hi 👋, I'm Sajjad Hossain Soykot</h1>
+<h3 align="center">A passionate tech enthusiast and ICT engineering student from Bangladesh</h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" />
