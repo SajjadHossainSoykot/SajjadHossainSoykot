@@ -12,7 +12,7 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SajjadHossainSoykot&color=brightgreen&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=SajjadHossainSoykot&color=brightgreen&style=for-the-badge&label=Profile+Views&base=2500)
 [![GitHub followers](https://img.shields.io/github/followers/SajjadHossainSoykot?style=for-the-badge&color=blue&labelColor=black)](https://github.com/SajjadHossainSoykot?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/SajjadHossainSoykot?style=for-the-badge&color=yellow&labelColor=black)](https://github.com/SajjadHossainSoykot?tab=repositories)
 
