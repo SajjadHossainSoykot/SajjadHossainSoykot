@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dokj6bayd/image/upload/q_auto/f_auto/v1781387399/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
+  <img src="https://res.cloudinary.com/dokj6bayd/image/upload/v1782169365/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Sajjad Hossain Soykot</h1>
 <h3 align="center">A passionate tech enthusiast and ICT engineering student from Bangladesh</h3>
@@ -179,25 +179,28 @@ The archive includes posters, banners, event designs, social media creatives, ce
 Personal learning, creative implementations, and full-stack development practice.
 
 - [QR Vision SS](https://github.com/SajjadHossainSoykot/QR-Vision-Project)  
-  A full-stack QR code generator, decoder, and real-time webcam scanner built with Python, FastAPI, OpenCV, Next.js, TypeScript, Tailwind CSS, browser-based camera access, and API integration.
+  A full-stack computer vision web app for QR code generation, decoding, and real-time webcam scanning using FastAPI, OpenCV, Next.js, TypeScript, Tailwind CSS, and API integration.
 
 - [CipherXploreSS Web Portal](https://github.com/SajjadHossainSoykot/Cryptography_Web_Portal)  
-  A full-stack interactive cryptography learning platform built with FastAPI, Next.js, REST API, and responsive UI.
+  A full-stack interactive cryptography learning platform with FastAPI backend, Next.js frontend, REST API integration, algorithm documentation, lab reports, and responsive UI.
+
+- [Notice Management System](https://github.com/SajjadHossainSoykot/learn-notice-system)  
+  A full-stack Next.js notice management system built to practice MongoDB CRUD operations, API routes, dynamic data handling, and responsive institutional notice publishing.
+
+- [SySi Chatbot Project](https://github.com/SajjadHossainSoykot/chatbot-project)  
+  A Python-based AI chatbot backend project integrating the Gemini API, conversation history, memory handling, environment variables, model fallback logic, and CLI-based interaction.
 
 - [Ramadan Calendar](https://github.com/SajjadHossainSoykot/ramadan_calender)  
-  A creative calendar-based react project designed for Ramadan schedule tracking and presentation.
+  A district-based Ramadan timetable web app built with React, Vite, Tailwind CSS, smart search, interactive Bangladesh map, live countdown, and PWA support.
 
 - [Interactive Digital Invitation Card](https://github.com/SajjadHossainSoykot/invitation-card)  
-  A modern and reusable digital invitation card web portal using Next.js, React, TypeScript, Tailwind CSS, and Lucide React.
-
-- [Chatbot Project](https://github.com/SajjadHossainSoykot/chatbot-project)  
-  A simple chatbot implementation using Python and API techniques for basic conversational interactions.
+  A reusable digital invitation card portal built with Next.js, React, TypeScript, Tailwind CSS, Lucide React, animated envelope UI, countdown timer, Google Maps link, and sharing option.
 
 - [EDGE IUICT-201 Final Project Healthcare](https://github.com/SajjadHossainSoykot/EDGEIUICT-201-Final-Project-Healthcare)  
-  A healthcare-focused project created as part of the EDGE IUICT-201 final project work.
+  A responsive healthcare-focused frontend project built with HTML, CSS, Bootstrap, and vanilla JavaScript, featuring dynamic content, appointment-related sections, quizzes, and medical service UI.
 
 - [Typing Speed Accuracy Test Project](https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project)  
-  A CLI based typing speed and accuracy testing project for measuring typing performance using C++.
+  A CLI-based C++ project for measuring typing speed and accuracy, marking an early milestone in my programming journey.
 
 ## 🎓 Academic & Lab Projects
 
