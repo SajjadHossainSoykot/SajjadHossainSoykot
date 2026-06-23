@@ -16,14 +16,21 @@
 [![GitHub followers](https://img.shields.io/github/followers/SajjadHossainSoykot?style=for-the-badge&color=blue&labelColor=black)](https://github.com/SajjadHossainSoykot?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/SajjadHossainSoykot?style=for-the-badge&color=yellow&labelColor=black)](https://github.com/SajjadHossainSoykot?tab=repositories)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" />
-
+<p align="center">
+  <a href="#about-me">🙋‍♂️ About Me</a> • 
+  <a href="#connect-with-me">🌐 Connect</a> • 
+  <a href="#languages-and-tools">🛠️ Tech Stack</a> • 
+  <a href="#developer-experience">💼 Experience</a> • 
+  <a href="#design-portfolio">🎨 Design Portfolio</a> • 
+  <a href="#learning-projects">🧪 Projects</a> • 
+  <a href="#github-stats">📊 Stats</a>
+</p>
 
 </div>
 
 ---
 
-## 🔥 About Me
+<h2 id="about-me">🔥 About Me</h2>
 
 - 🔭 Currently working on **Full-Stack Development**
 - 🌱 Learning & exploring **AI-ML, LLM, Computer Vision, and Image Processing**
@@ -35,7 +42,7 @@
 
 ---
 
-## 🌐 Connect With Me
+<h2 id="connect-with-me">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/sajjadhossainsoykot">
@@ -63,7 +70,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+<h2 id="languages-and-tools">🛠️ Languages and Tools</h2>
 
 ### 💻 Programming Languages
 <p align="center">
@@ -138,7 +145,7 @@
 
 ---
 
-## 🤝 Developer Experience
+<h2 id="developer-experience">🤝 Developer Experience</h2>
 
 I have been actively involved as a **developer** in real-world projects for organizations and institutions:
 
@@ -163,7 +170,7 @@ I have been actively involved as a **developer** in real-world projects for orga
 - Provided technical support and guidance for web development and digital initiatives of the chapter
 - 🔗 https://www.ieeecsbdc.org/web-and-it-2026
 
-## 🎨 Design Portfolio
+<h2 id="design-portfolio">🎨 Design Portfolio</h2>
 
 I have archived **hundreds of my graphic design works** from **2019 to the present**, representing a major part of my creative journey in visual communication, branding, layout design, and digital content creation.
 
@@ -175,7 +182,7 @@ The archive includes posters, banners, event designs, social media creatives, ce
 
 ---
 
-## 🧪 Learning Projects
+<h2 id="learning-projects">🧪 Learning Projects</h2>
 
 Personal learning, creative implementations, and full-stack development practice.
 
@@ -224,12 +231,12 @@ Practical implementations related to information coding and transmission systems
 
 ---
 
-## 📊 GitHub Stats
+<h2 id="github-stats">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.shion.dev/api?username=SajjadHossainSoykot&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="200" src="https://streak-stats.demolab.com/?user=SajjadHossainSoykot&theme=default_repocard&hide_border=false" />
-  <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SajjadHossainSoykot&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="200" src="https://github-readme-stats.shion.dev/api?username=SajjadHossainSoykot&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=SajjadHossainSoykot&theme=react&hide_border=false" />
+  <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SajjadHossainSoykot&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
