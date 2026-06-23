@@ -89,7 +89,7 @@
 
 ### 🗄️ Server and Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,netlify,vercel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,mysql,vercel,netlify&theme=light" />
 </p>
 
 ### 🎨 Design & Creative Tools
