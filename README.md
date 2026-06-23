@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dokj6bayd/image/upload/q_auto/f_auto/v1781387399/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
+  <img src="https://res.cloudinary.com/dokj6bayd/image/upload/v1782169365/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Sajjad Hossain Soykot</h1>
 <h3 align="center">A passionate tech enthusiast and ICT engineering student from Bangladesh</h3>
@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Web+App+Developer;UI%2FUX+Design+Enthusiast;Computer+Vision+%7C+AI-ML+%7C+Researcher;Always+curious+to+build+and+learn+more" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=28&pause=300&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;UI%2FUX+%26+System+Designer;Computer+Vision+%7C+AI-ML+%7C+Researcher;Always+curious+to+build+and+learn+more" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,25 +16,33 @@
 [![GitHub followers](https://img.shields.io/github/followers/SajjadHossainSoykot?style=for-the-badge&color=blue&labelColor=black)](https://github.com/SajjadHossainSoykot?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/SajjadHossainSoykot?style=for-the-badge&color=yellow&labelColor=black)](https://github.com/SajjadHossainSoykot?tab=repositories)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" />
-
+<p align="center">
+  <a href="#about-me">🙋‍♂️ About Me</a> • 
+  <a href="#connect-with-me">🌐 Connect</a> • 
+  <a href="#languages-and-tools">🛠️ Tech Stack</a> • 
+  <a href="#developer-experience">💼 Experience</a> • 
+  <a href="#design-portfolio">🎨 Design Portfolio</a> • 
+  <a href="#learning-projects">🧪 Projects</a> • 
+  <a href="#github-stats">📊 Stats</a>
+</p>
 
 </div>
 
 ---
 
-## 🔥 About Me
+<h2 id="about-me">🔥 About Me</h2>
 
-- 🔭 Currently working on **Full Stack Development**
-- 🌱 Currently learning **AI-ML, LLM, Computer Vision, Image Processing**
-- 👯 Open to collaborating on **GitHub projects**
+- 🔭 Currently working on **Full-Stack Development**
+- 🌱 Learning & exploring **AI-ML, LLM, Computer Vision, and Image Processing**
+- 🎨 **8+ years of Graphic Design experience** in branding, UI/UX, and visual design
+- 👯 Open to collaborating on **innovative GitHub projects**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sajjadhossainsoykot/)
-- 📄 Check out my experiences [here](https://sajjadhossainsoykot.wordpress.com/)
-- ⚡ Fun fact: **I love traveling and working with different organizations**
+- 📄 Check out my detailed experience [here](https://www.linkedin.com/in/sajjadhossainsoykot/details/experience/)
+- ⚡ Fun fact: **I love traveling, watching movies, and collaborating with diverse teams!**
 
 ---
 
-## 🌐 Connect With Me
+<h2 id="connect-with-me">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/sajjadhossainsoykot">
@@ -62,7 +70,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+<h2 id="languages-and-tools">🛠️ Languages and Tools</h2>
 
 ### 💻 Programming Languages
 <p align="center">
@@ -137,7 +145,7 @@
 
 ---
 
-## 🤝 Developer Experience
+<h2 id="developer-experience">🤝 Developer Experience</h2>
 
 I have been actively involved as a **developer** in real-world projects for organizations and institutions:
 
@@ -162,7 +170,7 @@ I have been actively involved as a **developer** in real-world projects for orga
 - Provided technical support and guidance for web development and digital initiatives of the chapter
 - 🔗 https://www.ieeecsbdc.org/web-and-it-2026
 
-## 🎨 Design Portfolio
+<h2 id="design-portfolio">🎨 Design Portfolio</h2>
 
 I have archived **hundreds of my graphic design works** from **2019 to the present**, representing a major part of my creative journey in visual communication, branding, layout design, and digital content creation.
 
@@ -174,30 +182,33 @@ The archive includes posters, banners, event designs, social media creatives, ce
 
 ---
 
-## 🧪 Learning Projects
+<h2 id="learning-projects">🧪 Learning Projects</h2>
 
 Personal learning, creative implementations, and full-stack development practice.
 
 - [QR Vision SS](https://github.com/SajjadHossainSoykot/QR-Vision-Project)  
-  A full-stack QR code generator, decoder, and real-time webcam scanner built with Python, FastAPI, OpenCV, Next.js, TypeScript, Tailwind CSS, browser-based camera access, and API integration.
+  A full-stack computer vision web app for QR code generation, decoding, and real-time webcam scanning using FastAPI, OpenCV, Next.js, TypeScript, Tailwind CSS, and API integration.
 
 - [CipherXploreSS Web Portal](https://github.com/SajjadHossainSoykot/Cryptography_Web_Portal)  
-  A full-stack interactive cryptography learning platform built with FastAPI, Next.js, REST API, and responsive UI.
+  A full-stack interactive cryptography learning platform with FastAPI backend, Next.js frontend, REST API integration, algorithm documentation, lab reports, and responsive UI.
+
+- [Notice Management System](https://github.com/SajjadHossainSoykot/learn-notice-system)  
+  A full-stack Next.js notice management system built to practice MongoDB CRUD operations, API routes, dynamic data handling, and responsive institutional notice publishing.
+
+- [SySi Chatbot Project](https://github.com/SajjadHossainSoykot/chatbot-project)  
+  A Python-based AI chatbot backend project integrating the Gemini API, conversation history, memory handling, environment variables, model fallback logic, and CLI-based interaction.
 
 - [Ramadan Calendar](https://github.com/SajjadHossainSoykot/ramadan_calender)  
-  A creative calendar-based react project designed for Ramadan schedule tracking and presentation.
+  A district-based Ramadan timetable web app built with React, Vite, Tailwind CSS, smart search, interactive Bangladesh map, live countdown, and PWA support.
 
 - [Interactive Digital Invitation Card](https://github.com/SajjadHossainSoykot/invitation-card)  
-  A modern and reusable digital invitation card web portal using Next.js, React, TypeScript, Tailwind CSS, and Lucide React.
-
-- [Chatbot Project](https://github.com/SajjadHossainSoykot/chatbot-project)  
-  A simple chatbot implementation using Python and API techniques for basic conversational interactions.
+  A reusable digital invitation card portal built with Next.js, React, TypeScript, Tailwind CSS, Lucide React, animated envelope UI, countdown timer, Google Maps link, and sharing option.
 
 - [EDGE IUICT-201 Final Project Healthcare](https://github.com/SajjadHossainSoykot/EDGEIUICT-201-Final-Project-Healthcare)  
-  A healthcare-focused project created as part of the EDGE IUICT-201 final project work.
+  A responsive healthcare-focused frontend project built with HTML, CSS, Bootstrap, and vanilla JavaScript, featuring dynamic content, appointment-related sections, quizzes, and medical service UI.
 
 - [Typing Speed Accuracy Test Project](https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project)  
-  A CLI based typing speed and accuracy testing project for measuring typing performance using C++.
+  A CLI-based C++ project for measuring typing speed and accuracy, marking an early milestone in my programming journey.
 
 ## 🎓 Academic & Lab Projects
 
@@ -220,12 +231,12 @@ Practical implementations related to information coding and transmission systems
 
 ---
 
-## 📊 GitHub Stats
+<h2 id="github-stats">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.shion.dev/api?username=SajjadHossainSoykot&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="200" src="https://streak-stats.demolab.com/?user=SajjadHossainSoykot&theme=default_repocard&hide_border=false" />
-  <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SajjadHossainSoykot&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="200" src="https://github-readme-stats.shion.dev/api?username=SajjadHossainSoykot&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="200" src="https://streak-stats.demolab.com/?user=SajjadHossainSoykot&theme=react&hide_border=false" />
+  <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SajjadHossainSoykot&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
