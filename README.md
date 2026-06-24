@@ -79,12 +79,12 @@
 
 ### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,npm,react,nextjs,typescript,vite,bootstrap,tailwind,php,wordpress&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,npm,react,nextjs,typescript,vite,bootstrap,tailwind&theme=light&perline=6" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,express,nodejs,django&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=fastapi,express,nodejs&theme=light&perline=6" />
 </p>
 
 ### 🗄️ Server and Database
