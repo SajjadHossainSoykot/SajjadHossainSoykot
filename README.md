@@ -19,7 +19,7 @@
 <p align="center">
   <a href="#about-me">🙋‍♂️ About Me</a> • 
   <a href="#connect-with-me">🌐 Connect</a> • 
-  <a href="#languages-and-tools">🛠️ Tech Stack</a> • 
+  <a href="#tech-stack">🛠️ Tech Stack</a> • 
   <a href="#developer-experience">💼 Experience</a> • 
   <a href="#design-portfolio">🎨 Design Portfolio</a> • 
   <a href="#learning-projects">🧪 Projects</a> • 
@@ -70,7 +70,7 @@
 
 ---
 
-<h2 id="languages-and-tools">🛠️ Languages and Tools</h2>
+<h2 id="tech-stack">🛠️ Tech Stacks and Tools </h2>
 
 ### 💻 Programming Languages
 <p align="center">
@@ -79,7 +79,7 @@
 
 ### 🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,npm,react,nextjs,typescript,vite,bootstrap,tailwind&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,npm,react,nextjs,typescript,vite,bootstrap,tailwind&theme=light&perline=5" />
 </p>
 
 ### ⚙️ Backend Development
