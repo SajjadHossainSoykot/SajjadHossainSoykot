@@ -89,7 +89,7 @@
 
 ### 🗄️ Server and Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,mysql,vercel,netlify&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,mysql,postgresql,vercel,netlify&theme=light" />
 </p>
 
 ### 🎨 Design & Creative Tools
@@ -126,7 +126,7 @@
 
 ### 🔀 Version Control & Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,bash,powershell&theme=light" />
 </p>
 
 ### 💬 Communication Platforms
