@@ -89,7 +89,7 @@
 
 ### 🗄️ Server and Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,mysql,postgresql,vercel,netlify&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,aws,mysql,postgresql,vercel,netlify&theme=light" />
 </p>
 
 ### 🎨 Design & Creative Tools
@@ -99,10 +99,13 @@
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="48" alt="draw.io"/>
 </p>
 
-### 🧠 Data Science and Computer Vision
+### 🧠 Machine Learning & Computer Vision
 <p align="center">
   <img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=light" />
   <img src="https://dl.svgcdn.com/png/logos/jupyter-400.png" height="48" alt="Jupyter Notebook"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" height="48" alt="Numpy"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" height="48" alt="Pandas"/>
+  <img src="https://img.icons8.com/color/48/matplotlib.png" height="48" alt="Matplotlib"/>
 </p>
 
 ### 📝 Documentation & Markup
