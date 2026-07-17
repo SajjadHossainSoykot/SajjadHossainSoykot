@@ -192,7 +192,7 @@ Personal learning, creative implementations, and full-stack development practice
 - [QR Vision SS](https://github.com/SajjadHossainSoykot/QR-Vision-Project)  
   A full-stack computer vision web app for QR code generation, decoding, and real-time webcam scanning using FastAPI, OpenCV, Next.js, TypeScript, Tailwind CSS, and API integration.
 
-- [CipherXploreSS Web Portal](https://github.com/SajjadHossainSoykot/Cryptography_Web_Portal)  
+- [CipherXploreSS Web Portal](https://github.com/SajjadHossainSoykot/CipherXploreSS)  
   A full-stack interactive cryptography learning platform with FastAPI backend, Next.js frontend, REST API integration, algorithm documentation, lab reports, and responsive UI.
 
 - [Notice Management System](https://github.com/SajjadHossainSoykot/learn-notice-system)  
