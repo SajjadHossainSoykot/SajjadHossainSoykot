@@ -102,7 +102,7 @@
 ### 🧠 Machine Learning & Computer Vision
 <p align="center">
   <img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=light" />
-  <img src="https://dl.svgcdn.com/png/logos/jupyter-400.png" height="48" alt="Jupyter Notebook"/>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="48" alt="Jupyter Notebook"/>
   <img src="https://img.icons8.com/color/48/numpy.png" height="48" alt="Numpy"/>
   <img src="https://img.icons8.com/color/48/pandas.png" height="48" alt="Pandas"/>
   <img src="https://img.icons8.com/color/48/matplotlib.png" height="48" alt="Matplotlib"/>
