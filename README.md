@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dokj6bayd/image/upload/v1782169365/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
+  <img src="https://res.cloudinary.com/dokj6bayd/image/upload/v1787795095/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Sajjad Hossain Soykot</h1>
 <h3 align="center">A passionate tech enthusiast and ICT engineering student from Bangladesh</h3>
@@ -37,7 +37,7 @@
 - 🎨 **8+ years of Graphic Design experience** in branding, UI/UX, and visual design
 - 👯 Open to collaborating on **innovative GitHub projects**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sajjadhossainsoykot/)
-- 📄 Check out my detailed experience [here](https://www.linkedin.com/in/sajjadhossainsoykot/details/experience/)
+- 📄 Check out my detailed experience on [www.sajjadsoykot.me](https://www.sajjadsoykot.me/)
 - ⚡ Fun fact: **I love traveling, watching movies, and collaborating with diverse teams!**
 
 ---
