@@ -45,6 +45,9 @@
 <h2 id="connect-with-me">🌐 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://www.sajjadsoykot.me/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/sajjadhossainsoykot">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
   </a>
