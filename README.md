@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dokj6bayd/image/upload/v1787795095/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
+  <img src="https://res.cloudinary.com/dokj6bayd/image/upload/v1788114412/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Sajjad Hossain Soykot</h1>
-<h3 align="center">A passionate tech enthusiast and ICT engineering student from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Software Engineer from Bangladesh</h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=28&pause=300&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;UI%2FUX+%26+System+Designer;Computer+Vision+%7C+AI-ML+%7C+Researcher;Always+curious+to+build+and+learn+more" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=28&pause=300&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;System+Designer+%26+UI%2FUX;Computer+Vision+%7C+AI-ML+%7C+Researcher;Always+curious+to+build+and+learn+more" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,8 +32,8 @@
 
 <h2 id="about-me">🔥 About Me</h2>
 
-- 🔭 Currently working on **Full-Stack Development**
-- 🌱 Learning & exploring **AI-ML, LLM, Computer Vision, and Image Processing**
+- 🔭 I'm a **Full Stack Software Engineer**
+- 🌱 Currently Learning & exploring **AI-ML, LLM, Computer Vision, and Image Processing**
 - 🎨 **8+ years of Graphic Design experience** in branding, UI/UX, and visual design
 - 👯 Open to collaborating on **innovative GitHub projects**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sajjadhossainsoykot/)
