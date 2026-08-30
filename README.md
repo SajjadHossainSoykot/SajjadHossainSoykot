@@ -142,15 +142,6 @@
 
 ---
 
-## 🚀 Currently Exploring
-
-- Building better **frontend interfaces**
-- Improving **React** and **Node.js** skills
-- Learning Machine Learning and Computer Vision techniques
-- Learning more about **modern web tools and clean UI design**
-
----
-
 <h2 id="developer-experience">🤝 Developer Experience</h2>
 
 I have been actively involved as a **developer** in real-world projects for organizations and institutions:
