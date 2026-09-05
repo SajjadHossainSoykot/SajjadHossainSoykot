@@ -1,245 +1,382 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dokj6bayd/image/upload/v1788114412/Sajjad_LinkedIn_Background_Photo_xsw5pz.png" alt="Banner" />
-</p>
-<h1 align="center">Hi 👋, I'm Sajjad Hossain Soykot</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from Bangladesh</h3>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" />
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=28&pause=300&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;System+Designer+%26+UI%2FUX;Computer+Vision+%7C+AI-ML+%7C+Researcher;Always+curious+to+build+and+learn+more" alt="Typing SVG" />
+  <a href="https://www.sajjadsoykot.me/">
+    <img
+      src="https://res.cloudinary.com/dokj6bayd/image/upload/v1788114412/Sajjad_LinkedIn_Background_Photo_xsw5pz.png"
+      alt="S M Sajjad Hossain Soykot - Full-Stack Software Engineer"
+      width="100%"
+    />
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SajjadHossainSoykot&color=brightgreen&style=for-the-badge&label=Profile+Views&base=2500)
-[![GitHub followers](https://img.shields.io/github/followers/SajjadHossainSoykot?style=for-the-badge&color=blue&labelColor=black)](https://github.com/SajjadHossainSoykot?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/SajjadHossainSoykot?style=for-the-badge&color=yellow&labelColor=black)](https://github.com/SajjadHossainSoykot?tab=repositories)
+<h1 align="center">S M Sajjad Hossain Soykot</h1>
 
 <p align="center">
-  <a href="#about-me">🙋‍♂️ About Me</a> • 
-  <a href="#connect-with-me">🌐 Connect</a> • 
-  <a href="#tech-stack">🛠️ Tech Stack</a> • 
-  <a href="#developer-experience">💼 Experience</a> • 
-  <a href="#design-portfolio">🎨 Design Portfolio</a> • 
-  <a href="#learning-projects">🧪 Projects</a> • 
-  <a href="#github-stats">📊 Stats</a>
+  <strong>Full-Stack Software Engineer | System Design & UI/UX | Web Applications & Digital Systems</strong>
 </p>
 
-</div>
-
----
-
-<h2 id="about-me">🔥 About Me</h2>
-
-- 🔭 I'm a **Full Stack Software Engineer**
-- 🌱 Currently Learning & exploring **AI-ML, LLM, Computer Vision, and Image Processing**
-- 🎨 **8+ years of Graphic Design experience** in branding, UI/UX, and visual design
-- 👯 Open to collaborating on **innovative GitHub projects**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sajjadhossainsoykot/)
-- 📄 Check out my detailed experience on [www.sajjadsoykot.me](https://www.sajjadsoykot.me/)
-- ⚡ Fun fact: **I love traveling, watching movies, and collaborating with diverse teams!**
-
----
-
-<h2 id="connect-with-me">🌐 Connect With Me</h2>
+<p align="center">
+  IEEE Community Leader • IT Trainer • B.Sc. (Engg.) in ICT @ Islamic University, Bangladesh
+</p>
 
 <p align="center">
   <a href="https://www.sajjadsoykot.me/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-sajjadsoykot.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/sajjadhossainsoykot">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sajjadhossainsoykot/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/sajjadsoykot">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1M6a9kVErkRgx6rn6FCO-UZcWZ0sLUjBC/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-View_CV-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://fb.com/sajjadhossainsoykot">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="mailto:contact@sajjadsoykot.me">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/sajjad_hossain_soykot">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@SajjadHossainSoykot">
+    <img src="https://img.shields.io/badge/YouTube-Sajjad_Hossain_Soykot-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.youtube.com/c/sajjadhossainsoykot">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://github.com/SajjadHossainSoykot?tab=followers">
+    <img src="https://img.shields.io/github/followers/SajjadHossainSoykot?style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
-  <a href="https://codeforces.com/profile/sajjadsoykot">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/bfuyjQk">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=SajjadHossainSoykot&style=flat-square&label=Profile+Views&base=2500" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#selected-engineering-work">Selected Work</a> •
+  <a href="#technology-stack">Tech Stack</a> •
+  <a href="#professional-experience">Experience</a> •
+  <a href="#leadership-training">Leadership</a> •
+  <a href="#education-credentials">Education</a> •
+  <a href="#github-activity">GitHub</a>
+</p>
+
+---
+
+<h2 id="about-me">👨‍💻 About Me</h2>
+
+I'm a **Full-Stack Software Engineer and System Designer** from Bangladesh, currently pursuing a **B.Sc. (Engg.) in Information and Communication Technology (ICT)** at **Islamic University, Bangladesh**.
+
+I build **production web platforms, institutional systems, administrative portals, and user-centered digital products** using modern full-stack technologies. My background in **UI/UX, system design, visual communication, technical leadership, and training** helps me approach software not only as code, but as a complete solution to real-world problems.
+
+My work spans professional platforms, institutional software, academic engineering projects, developer tools, computer vision applications, and AI-assisted systems.
+
+### Current focus
+
+* 🧩 Building scalable **full-stack web applications and digital systems**
+* 🏗️ Working with **system architecture, CMS workflows, dashboards, APIs, and cloud services**
+* 🎨 Combining engineering with **UI/UX and user-centered product design**
+* 🤖 Exploring **AI/ML, LLM applications, computer vision, and image processing**
+* 🎓 Sharing knowledge through **technical training, mentoring, and workshops**
+* 🌐 Contributing to **IEEE and technology communities**
+* 🤝 Open to **software engineering, research, product, and collaborative opportunities**
+
+> I enjoy working where engineering, design, and real-world problem solving meet.
+
+---
+
+<h2 id="selected-engineering-work">🚀 Selected Engineering Work</h2>
+
+I prioritize projects that demonstrate real-world system development, full-stack engineering, problem solving, and practical implementation.
+
+### 🏢 USS BD Digital Platform
+
+**Official Web Portal, CMS & Management System | Lead Developer**
+
+A complete digital transformation platform for **Unnayan Sahayak Sangstha (USS)**, including its public website, administrative system, cloud-based CMS, media infrastructure, SEO architecture, and content-management workflows.
+
+**Core work:** system architecture, frontend development, CMS workflows, admin interfaces, authentication, cloud media, deployment, DNS, SEO, and long-term platform maintenance.
+
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Firebase` `Firestore` `Cloudinary` `Vercel` `Cloudflare`
+
+[Portfolio Case Study](https://www.sajjadsoykot.me/projects/uss-bd-org) •
+[Official Developer Page](https://www.ussbd.org/developer) •
+[Video Demo](https://youtu.be/48R5NecS4UE)
+
+---
+
+### 🏫 ICT IU Institutional Platform
+
+**Official Website & Institutional Systems | Developer Team Member**
+
+Contributing to the digital infrastructure of the **Department of ICT, Islamic University**, including the official departmental website, Silver Jubilee registration system, student-facing services, administrative workflows, directories, academic information, and institutional web support.
+
+**Stack:** `Next.js` `React` `TypeScript` `JavaScript` `MongoDB` `Web APIs`
+
+[Portfolio Case Study](https://www.sajjadsoykot.me/projects/ict-iu) •
+[Official Developer Team](https://www.ictiu.ac.bd/developer-team)
+
+---
+
+### 🔐 CipherXploreSS
+
+**Interactive Cryptography Learning Platform**
+
+A full-stack web platform that transforms cryptography laboratory experiments into an interactive learning system where users can study and execute classical and modern cryptographic algorithms.
+
+Includes Caesar, Playfair, Hill, Vigenère, Rail Fence, RSA, and Diffie-Hellman implementations with frontend-backend API communication.
+
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `REST API` `Vercel` `Render`
+
+[Live App](https://cipherxplore-ss.vercel.app/) •
+[GitHub](https://github.com/SajjadHossainSoykot/CipherXploreSS) •
+[Case Study](https://www.sajjadsoykot.me/projects/cipherxploress)
+
+---
+
+### 📷 QR Vision SS
+
+**QR Generator, Decoder & Real-Time Computer Vision Scanner**
+
+A full-stack computer vision application supporting QR generation, image-based decoding, and real-time webcam scanning through browser camera access and an OpenCV-powered backend.
+
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Python` `FastAPI` `OpenCV` `Pillow` `Vercel` `Render`
+
+[Live App](https://qr-vision-ss.vercel.app/) •
+[GitHub](https://github.com/SajjadHossainSoykot/QR-Vision-Project) •
+[Case Study](https://www.sajjadsoykot.me/projects/qr-vision-ss)
+
+---
+
+### ⌨️ CodeType
+
+**Programming Typing Practice Web App | Harvard CS50x Final Project**
+
+A developer-focused typing application designed for practicing **real programming syntax** instead of normal prose.
+
+CodeType includes **90 code snippets across C, Python, SQL, HTML, and JavaScript**, three difficulty levels, character-by-character validation, WPM and accuracy tracking, mistake analysis, code-friendly keyboard handling, and persistent performance history.
+
+**Stack:** `Python` `Flask` `JavaScript` `SQLite` `HTML5` `CSS3` `Bootstrap` `Jinja2` `Vercel`
+
+[Live App](https://codetype-cs50x.vercel.app/) •
+[GitHub](https://github.com/SajjadHossainSoykot/CodeType-CS50x-Project) •
+[Case Study](https://www.sajjadsoykot.me/projects/codetype) •
+[Video Demo](https://youtu.be/vx2EkBozT_M)
+
+---
+
+### 🤖 SySi Chatbot Backend
+
+**CLI-Based AI Chatbot with Gemini API**
+
+A Python-based conversational AI backend created to explore external AI API integration, conversation state, chat history, memory summarization, fallback models, environment-based configuration, and modular backend architecture.
+
+**Stack:** `Python` `Gemini API` `JSON` `Environment Variables` `CLI` `File-Based Memory`
+
+[GitHub](https://github.com/SajjadHossainSoykot/SySi-Chatbot-Project) •
+[Case Study](https://www.sajjadsoykot.me/projects/sysi-chatbot)
+
+---
+
+<p align="center">
+  <a href="https://www.sajjadsoykot.me/projects">
+    <strong>View all projects and detailed case studies →</strong>
   </a>
 </p>
 
 ---
 
-<h2 id="tech-stack">🛠️ Tech Stacks and Tools </h2>
+<h2 id="technology-stack">🛠️ Technology Stack</h2>
 
-### 💻 Programming Languages
+### Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,matlab&theme=light" alt="Programming Languages" />
 </p>
 
-### 🌐 Frontend Development
+### Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,npm,react,nextjs,typescript,vite,bootstrap,tailwind&theme=light&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite&theme=light" alt="Frontend Technologies" />
 </p>
 
-### ⚙️ Backend Development
+### Backend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,express,nodejs&theme=light&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&theme=light" alt="Backend Technologies" />
 </p>
 
-### 🗄️ Server and Database
+### Databases, Cloud & Infrastructure
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,cloudflare,aws,mysql,postgresql,vercel,netlify&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,docker,vercel,cloudflare,aws&theme=light" alt="Database and Cloud Technologies" />
 </p>
 
-### 🎨 Design & Creative Tools
+### AI, Computer Vision & Data
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma&theme=light" />
-  <img src="https://img.icons8.com/color/48/canva.png" height="48" alt="Canva"/>
-  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="48" alt="draw.io"/>
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=light" alt="AI and Computer Vision Technologies" />
+  <img src="https://img.icons8.com/color/48/numpy.png" height="46" alt="NumPy" />
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/pandas.png" height="46" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/matplotlib.png" height="46" alt="Matplotlib" />
+  &nbsp;
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="46" alt="Jupyter Notebook" />
 </p>
 
-### 🧠 Machine Learning & Computer Vision
+### Design & Product
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=light" />
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="48" alt="Jupyter Notebook"/>
-  <img src="https://img.icons8.com/color/48/numpy.png" height="48" alt="Numpy"/>
-  <img src="https://img.icons8.com/color/48/pandas.png" height="48" alt="Pandas"/>
-  <img src="https://img.icons8.com/color/48/matplotlib.png" height="48" alt="Matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=light" alt="Design Technologies" />
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/canva.png" height="48" alt="Canva" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="45" alt="Draw.io" />
 </p>
 
-### 📝 Documentation & Markup
+### Development Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=latex,md,regex&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,powershell&theme=light" alt="Development Tools" />
+</p>
+
+<p align="center">
+  <a href="https://www.sajjadsoykot.me/about/skills-tools">
+    <strong>Explore my complete skills & tools profile →</strong>
+  </a>
+</p>
+
+---
+
+<h2 id="professional-experience">💼 Professional Experience</h2>
+
+| Role                                                    | Organization                              | Focus                                                                                               |
+| ------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Lead Developer & Digital Transformation Coordinator** | Unnayan Sahayak Sangstha (USS)            | Full-stack platform development, CMS, admin systems, infrastructure, SEO, deployment                |
+| **Developer Team Member**                               | Department of ICT, Islamic University     | Institutional web systems, registration platform, student services, frontend and system development |
+| **Mentor, Web & IT Committee**                          | IEEE Computer Society Bangladesh Chapter  | React/TypeScript web platform support, technical mentoring, website maintenance                     |
+| **Graphics & Multimedia Content Coordinator**           | IEEE Computer Society Bangladesh Chapter  | Digital branding, multimedia communication, content coordination                                    |
+| **IT & Digital Skills Trainer**                         | EDGE-ICTIU and other training initiatives | Technology, productivity, web fundamentals, design, and AI-assisted workflows                       |
+
+<p align="center">
+  <a href="https://www.sajjadsoykot.me/experiences">
+    <strong>View detailed professional experience →</strong>
+  </a>
+</p>
+
+---
+
+<h2 id="leadership-training">🌐 Leadership, Training & Community</h2>
+
+Technology has been only one part of my journey. I also work extensively in **leadership, mentoring, training, event organization, and community development**.
+
+* 👨‍🏫 Trained **200+ students** through workshops, mentoring, and hands-on technology programs
+* 🧑‍💼 Trained **30+ officers and professionals** in computer fundamentals and productivity tools
+* ⚡ **Chairperson**, IEEE Islamic University Student Branch
+* 🌐 **Mentor, Web & IT Committee**, IEEE Computer Society Bangladesh Chapter
+* 🎨 More than **8 years of graphic design and visual communication experience**
+* 🤝 Experience coordinating multidisciplinary student, professional, and technical teams
+
+[Leadership Activities](https://www.sajjadsoykot.me/activities/leadership) •
+[Volunteering & Community](https://www.sajjadsoykot.me/activities/volunteering) •
+[Videos](https://www.sajjadsoykot.me/activities/videos)
+
+---
+
+<h2 id="education-credentials">🎓 Education & Credentials</h2>
+
+### B.Sc. (Engineering) in Information and Communication Technology
+
+**Islamic University, Bangladesh**
+March 2022 - November 2026 (Expected)
+**Current CGPA: 3.59 / 4.00**
+
+### Selected Certifications
+
+* 🎓 **CS50x: Introduction to Computer Science** - Harvard University
+* 🎨 **Google UX Design Professional Certificate** - Google
+* 💻 **Front-End Development** - Bangladesh Computer Council
+* ⚛️ **React Basics** - Meta
+* 🟨 **Programming with JavaScript** - Meta
+* 🔀 **Version Control** - Meta
+* ⚙️ **Introduction to Back-End Development** - Meta
+* 🔌 **API and Performance Testing Fundamentals** - SQALOGY
+
+[View Education](https://www.sajjadsoykot.me/about/education) •
+[View Certifications](https://www.sajjadsoykot.me/certifications) •
+[Honors & Awards](https://www.sajjadsoykot.me/about/honors-awards)
+
+---
+
+<h2>🎨 Design Background</h2>
+
+Before and alongside software engineering, I developed a strong foundation in **graphic design and visual communication**.
+
+My creative archive includes work in event branding, posters, banners, social media content, academic graphics, diagrams, promotional materials, certificates, presentation design, and UI/UX.
+
+**Tools:** Photoshop, Illustrator, Figma, Canva, Premiere Pro, Draw.io, PowerPoint
+
+[View Design Portfolio](https://drive.google.com/drive/folders/1ykvjED7tETQxyQd2iE7mD4Dr7vWttLCJ?usp=sharing)
+
+---
+
+<h2 id="github-activity">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.shion.dev/api?username=SajjadHossainSoykot&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
+    alt="Sajjad Hossain Soykot GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=SajjadHossainSoykot&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=SajjadHossainSoykot&theme=react&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SajjadHossainSoykot&theme=react-dark&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+<h2>🤝 Let's Connect</h2>
+
+I'm open to conversations around **software engineering, full-stack development, digital systems, UI/UX, research, technical communities, training, and collaborative projects**.
+
+<p align="center">
+  <a href="https://www.sajjadsoykot.me/"><strong>Portfolio</strong></a>
+  •
+  <a href="https://www.linkedin.com/in/sajjadhossainsoykot/"><strong>LinkedIn</strong></a>
+  •
+  <a href="mailto:contact@sajjadsoykot.me"><strong>Email</strong></a>
+  •
+  <a href="https://www.youtube.com/@SajjadHossainSoykot"><strong>YouTube</strong></a>
+  •
+  <a href="https://x.com/SajjadSoykot"><strong>X</strong></a>
+</p>
+
+<p align="center">
+  <strong>📍 Bangladesh</strong>
   <br/>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v2.png" height="48" alt="Microsoft Word"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="48" alt="Microsoft Excel"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="48" alt="Microsoft PowerPoint"/>
-  <img src="https://img.icons8.com/color/48/google-docs--v1.png" height="48" alt="Google Docs"/>
-  <img src="https://img.icons8.com/color/48/google-sheets.png" height="48" alt="Google Sheets"/>
-  <img src="https://img.icons8.com/color/48/google-forms-new-logo-1.png" height="48" alt="Google Forms"/>
-  <img src="https://img.icons8.com/color/48/google-slides.png" height="48" alt="Google Slides"/>
-</p>
-
-### 💻 Operating Systems
-<p align="center">
-  <img src="https://img.icons8.com/fluency/48/mac-os.png" height="48" alt="macOS"/>
-  <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" />
-</p>
-
-### 🔀 Version Control & Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,bash,powershell&theme=light" />
-</p>
-
-### 💬 Communication Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,linkedin,gmail&theme=light" />
+  <strong>📧 contact@sajjadsoykot.me</strong>
 </p>
 
 ---
 
-<h2 id="developer-experience">🤝 Developer Experience</h2>
-
-I have been actively involved as a **developer** in real-world projects for organizations and institutions:
-
-### 🏢 Unnayan Sahayak Sangstha (USS)
-- Working as the **Lead Developer & Digital Transformation Coordinator**  
-- Responsible for designing and developing the official digital ecosystem of USS  
-- Leading development of the official website and admin portal 
-- Implemented modern employee management systems, digital content management, and organizational communication tools
-- Implementing modern full-stack architecture using Next.js, Firebase, MongoDB and Tailwind CSS  
-- Supporting SEO, deployment, and long-term digital infrastructure planning  
-- 🔗 https://www.ussbd.org/developer  
-
-### 🏫 Department of ICT, Islamic University
-- Worked as part of the developer team on official institutional systems  
-- Maintained the **Silver Jubilee program registration system** and provided web support  
-- Managed student portal systems and contributed to the **front-end design and system development** of the ICT IU official website  
-- 🔗 https://www.ictiu.ac.bd/developer-team  
-
-### 🌐 IEEE Computer Society Bangladesh Chapter
-- Worked as Graphics and Multimedia Content Coordinator for the **IEEE Computer Society Bangladesh Chapter** Executive Committee 2026
-- Contributed to the development and maintenance of the official website as the **Mentor of Web and IT Committee 2026**
-- Provided technical support and guidance for web development and digital initiatives of the chapter
-- 🔗 https://www.ieeecsbdc.org/web-and-it-2026
-
-<h2 id="design-portfolio">🎨 Design Portfolio</h2>
-
-I have archived **hundreds of my graphic design works** from **2019 to the present**, representing a major part of my creative journey in visual communication, branding, layout design, and digital content creation.
-
-The archive includes posters, banners, event designs, social media creatives, certificates, visiting cards, diagrams, academic visuals, and organizational promotional materials. Although I have missed many earlier works due to device changes and lost files, this collection still reflects my continuous learning and practical experience in design.
-
-**Tools:** Adobe Photoshop, Adobe Illustrator, Canva, Figma, Draw.io, Microsoft PowerPoint
-
-🔗 [View My Design Portfolio - Designs By Sajjad](https://drive.google.com/drive/folders/1ykvjED7tETQxyQd2iE7mD4Dr7vWttLCJ?usp=sharing)
-
----
-
-<h2 id="learning-projects">🧪 Learning Projects</h2>
-
-Personal learning, creative implementations, and full-stack development practice.
-
-- [QR Vision SS](https://github.com/SajjadHossainSoykot/QR-Vision-Project)  
-  A full-stack computer vision web app for QR code generation, decoding, and real-time webcam scanning using FastAPI, OpenCV, Next.js, TypeScript, Tailwind CSS, and API integration.
-
-- [CipherXploreSS Web Portal](https://github.com/SajjadHossainSoykot/CipherXploreSS)  
-  A full-stack interactive cryptography learning platform with FastAPI backend, Next.js frontend, REST API integration, algorithm documentation, lab reports, and responsive UI.
-
-- [Notice Management System](https://github.com/SajjadHossainSoykot/learn-notice-system)  
-  A full-stack Next.js notice management system built to practice MongoDB CRUD operations, API routes, dynamic data handling, and responsive institutional notice publishing.
-
-- [SySi Chatbot Project](https://github.com/SajjadHossainSoykot/chatbot-project)  
-  A Python-based AI chatbot backend project integrating the Gemini API, conversation history, memory handling, environment variables, model fallback logic, and CLI-based interaction.
-
-- [Ramadan Calendar](https://github.com/SajjadHossainSoykot/ramadan_calender)  
-  A district-based Ramadan timetable web app built with React, Vite, Tailwind CSS, smart search, interactive Bangladesh map, live countdown, and PWA support.
-
-- [Interactive Digital Invitation Card](https://github.com/SajjadHossainSoykot/invitation-card)  
-  A reusable digital invitation card portal built with Next.js, React, TypeScript, Tailwind CSS, Lucide React, animated envelope UI, countdown timer, Google Maps link, and sharing option.
-
-- [EDGE IUICT-201 Final Project Healthcare](https://github.com/SajjadHossainSoykot/EDGEIUICT-201-Final-Project-Healthcare)  
-  A responsive healthcare-focused frontend project built with HTML, CSS, Bootstrap, and vanilla JavaScript, featuring dynamic content, appointment-related sections, quizzes, and medical service UI.
-
-- [Typing Speed Accuracy Test Project](https://github.com/SajjadHossainSoykot/Typing-Speed-Accuracy-Test-Project)  
-  A CLI-based C++ project for measuring typing speed and accuracy, marking an early milestone in my programming journey.
-
-## 🎓 Academic & Lab Projects
-
-ICT engineering laboratory and coursework repositories with practical implementations and technical experiments.
-
-- [ICT-4110 Cryptography and Network Security Laboratory](https://github.com/SajjadHossainSoykot/ICT-4110-Cryptography-and-Network-Security-Laboratory)  
-  Classical and modern cryptography lab experiments, algorithms, and reports.
-
-- [ICT-4104 Digital Signal and Image Processing Laboratory](https://github.com/SajjadHossainSoykot/ICT-4104-Digital-Signal-and-Image-Processing-Laboratory)  
-  Laboratory works on digital signal processing, image processing, and related computational techniques.
-
-- [ICT-4102 Information Coding and Transmission Laboratory](https://github.com/SajjadHossainSoykot/ICT-4102-Information-Coding-and-Transmission-Laboratory)  
-Practical implementations related to information coding and transmission systems.
-
-- [ICT-3206 Computer Architecture and Organization Lab](https://github.com/SajjadHossainSoykot/ICT-3206-Computer-Architecture-and-Organization-Lab)  
-  Lab works focused on computer architecture, organization, and system-level concepts.
-
-- [ICT-3102 Electromagnetic Theory and Antenna Laboratory](https://github.com/SajjadHossainSoykot/ICT-3102-Electromagnetic-Theory-and-Antenna-Laboratory)  
-  Practical works related to electromagnetic theory, antenna design, and communication concepts.
-
----
-
-<h2 id="github-stats">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img height="200" src="https://github-readme-stats.shion.dev/api?username=SajjadHossainSoykot&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="200" src="https://streak-stats.demolab.com/?user=SajjadHossainSoykot&theme=react&hide_border=false" />
-  <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SajjadHossainSoykot&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <i>Building useful digital systems through engineering, design, leadership, and continuous learning.</i>
 </p>
 
----
-
-## 📈 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajjadHossainSoykot&theme=react" />
+  <a href="https://www.sajjadsoykot.me/">
+    www.sajjadsoykot.me
+  </a>
 </p>
