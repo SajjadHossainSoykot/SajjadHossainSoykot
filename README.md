@@ -247,8 +247,7 @@ A Python-based conversational AI backend created to explore external AI API inte
 | ------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Lead Developer & Digital Transformation Coordinator** | Unnayan Sahayak Sangstha (USS)            | Full-stack platform development, CMS, admin systems, infrastructure, SEO, deployment                |
 | **Developer Team Member**                               | Department of ICT, Islamic University     | Institutional web systems, registration platform, student services, frontend and system development |
-| **Mentor, Web & IT Committee**                          | IEEE Computer Society Bangladesh Chapter  | React/TypeScript web platform support, technical mentoring, website maintenance                     |
-| **Graphics & Multimedia Content Coordinator**           | IEEE Computer Society Bangladesh Chapter  | Digital branding, multimedia communication, content coordination                                    |
+| **Mentor, Web & IT Committee**                          | IEEE Computer Society Bangladesh Chapter  | React/TypeScript web platform support, technical mentoring, website maintenance                     |                                  |
 | **IT & Digital Skills Trainer**                         | EDGE-ICTIU and other training initiatives | Technology, productivity, web fundamentals, design, and AI-assisted workflows                       |
 
 <p align="center">
