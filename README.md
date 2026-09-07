@@ -20,13 +20,13 @@
 
 <p align="center">
   <a href="https://www.sajjadsoykot.me/">
-    <img src="https://img.shields.io/badge/Portfolio-sajjadsoykot.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/www.sajjadsoykot.me-0A66C2?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sajjadhossainsoykot/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://drive.google.com/file/d/1M6a9kVErkRgx6rn6FCO-UZcWZ0sLUjBC/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-View_CV-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/-View_Resume-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:contact@sajjadsoykot.me">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@SajjadHossainSoykot">
-    <img src="https://img.shields.io/badge/YouTube-Sajjad_Hossain_Soykot-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/-Sajjad_Hossain_Soykot-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://github.com/SajjadHossainSoykot?tab=followers">
     <img src="https://img.shields.io/github/followers/SajjadHossainSoykot?style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
@@ -201,7 +201,7 @@ A Python-based conversational AI backend created to explore external AI API inte
 ### Databases, Cloud & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,docker,vercel,cloudflare,aws&theme=light" alt="Database and Cloud Technologies" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,docker,vercel,cloudflare&theme=light" alt="Database and Cloud Technologies" />
 </p>
 
 ### AI, Computer Vision & Data
