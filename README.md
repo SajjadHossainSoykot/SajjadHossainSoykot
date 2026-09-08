@@ -320,9 +320,10 @@ My creative archive includes work in event branding, posters, banners, social me
     src="https://github-readme-stats.shion.dev/api?username=SajjadHossainSoykot&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
     alt="Sajjad Hossain Soykot GitHub Stats"
   />
+
   <img
     height="180"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=SajjadHossainSoykot&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=SajjadHossainSoykot&theme=react&hide_border=true&layout=compact&langs_count=10&size_weight=0.05&count_weight=0.95"
     alt="Most Used Languages"
   />
 </p>
@@ -334,12 +335,14 @@ My creative archive includes work in event branding, posters, banners, social me
   />
 </p>
 
+---
+
 ### Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SajjadHossainSoykot&theme=react-dark&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajjadHossainSoykot&theme=react"
+    alt="GitHub Profile Summary"
     width="100%"
   />
 </p>
