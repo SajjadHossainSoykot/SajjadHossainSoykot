@@ -320,7 +320,6 @@ My creative archive includes work in event branding, posters, banners, social me
     src="https://github-readme-stats.shion.dev/api?username=SajjadHossainSoykot&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
     alt="Sajjad Hossain Soykot GitHub Stats"
   />
-
   <img
     height="180"
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=SajjadHossainSoykot&theme=react&hide_border=true&layout=compact&langs_count=10&size_weight=0.05&count_weight=0.95"
