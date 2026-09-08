@@ -122,7 +122,8 @@ Includes Caesar, Playfair, Hill, Vigenère, Rail Fence, RSA, and Diffie-Hellman 
 
 [Live App](https://cipherxplore-ss.vercel.app/) •
 [GitHub](https://github.com/SajjadHossainSoykot/CipherXploreSS) •
-[Case Study](https://www.sajjadsoykot.me/projects/cipherxploress)
+[Case Study](https://www.sajjadsoykot.me/projects/cipherxploress)•
+[Video Demo](https://youtu.be/pcHVoLFvj-E)
 
 ---
 
@@ -136,7 +137,21 @@ A full-stack computer vision application supporting QR generation, image-based d
 
 [Live App](https://qr-vision-ss.vercel.app/) •
 [GitHub](https://github.com/SajjadHossainSoykot/QR-Vision-Project) •
-[Case Study](https://www.sajjadsoykot.me/projects/qr-vision-ss)
+[Case Study](https://www.sajjadsoykot.me/projects/qr-vision-ss)•
+[Video Demo](https://youtu.be/L2I1UohtCqw)
+
+---
+### 🤖 SAJ AI Assistant
+
+**AI-Powered Portfolio Assistant with Query-Aware RAG & Multi-Model Failover**
+
+A production AI assistant built for my portfolio to provide grounded, conversational access to my projects, experience, skills, leadership, awards, and other professional information. It uses query-aware domain retrieval, token-efficient context building, zero-hallucination guardrails, and automated model failover across Gemini and Groq.
+
+**Stack:** `Next.js` `React` `TypeScript` `Gemini API` `Groq API` `Query-Aware RAG` `Prompt Engineering` `Tailwind CSS` `Vercel`
+
+[Try SAJ Live](https://sajjadsoykot.me/ask-saj) •
+[Case Study](https://www.sajjadsoykot.me/projects/saj-ai-assistant) •
+[Related CLI Chatbot Public Repository](https://github.com/SajjadHossainSoykot/SySi-Chatbot-Project)
 
 ---
 
@@ -154,19 +169,6 @@ CodeType includes **90 code snippets across C, Python, SQL, HTML, and JavaScript
 [GitHub](https://github.com/SajjadHossainSoykot/CodeType-CS50x-Project) •
 [Case Study](https://www.sajjadsoykot.me/projects/codetype) •
 [Video Demo](https://youtu.be/vx2EkBozT_M)
-
----
-
-### 🤖 SySi Chatbot Backend
-
-**CLI-Based AI Chatbot with Gemini API**
-
-A Python-based conversational AI backend created to explore external AI API integration, conversation state, chat history, memory summarization, fallback models, environment-based configuration, and modular backend architecture.
-
-**Stack:** `Python` `Gemini API` `JSON` `Environment Variables` `CLI` `File-Based Memory`
-
-[GitHub](https://github.com/SajjadHossainSoykot/SySi-Chatbot-Project) •
-[Case Study](https://www.sajjadsoykot.me/projects/sysi-chatbot)
 
 ---
 
