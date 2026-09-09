@@ -248,7 +248,7 @@ CodeType includes **90 code snippets across C, Python, SQL, HTML, and JavaScript
 | Role                                                    | Organization                              | Focus                                                                                               |
 | ------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Lead Developer & Digital Transformation Coordinator** | Unnayan Sahayak Sangstha (USS)            | Full-stack platform development, CMS, admin systems, infrastructure, SEO, deployment                |
-| **Developer Team Member**                               | Department of ICT, Islamic University     | Institutional web systems, registration platform, student services, frontend and system development |
+| **Web Developer & System Administrator**                               | Department of ICT, Islamic University     | Institutional web systems, registration platform, student services, frontend and system development |
 | **Mentor, Web & IT Committee**                          | IEEE Computer Society Bangladesh Chapter  | React/TypeScript web platform support, technical mentoring, website maintenance                     |                                  |
 | **IT & Digital Skills Trainer**                         | EDGE-ICTIU and other training initiatives | Technology, productivity, web fundamentals, design, and AI-assisted workflows                       |
 
