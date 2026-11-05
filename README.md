@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  IEEE Community Leader • IT Trainer • B.Sc. (Engg.) in ICT @ Islamic University, Bangladesh
+  IEEE Community Leader • IT Trainer • B.Sc. (Engg.) in ICT • Islamic University Graduate (2026)
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 
 <h2 id="about-me">👨‍💻 About Me</h2>
 
-I'm a **Full-Stack Software Engineer and System Designer** from Bangladesh, currently pursuing a **B.Sc. (Engg.) in Information and Communication Technology (ICT)** at **Islamic University, Bangladesh**.
+I'm a **Full-Stack Software Engineer and System Designer** from Bangladesh and a **B.Sc. (Engineering) graduate in Information and Communication Technology (ICT)** from **Islamic University, Bangladesh** (November 2026).
 
 I build **production web platforms, institutional systems, administrative portals, and user-centered digital products** using modern full-stack technologies. My background in **UI/UX, system design, visual communication, technical leadership, and training** helps me approach software not only as code, but as a complete solution to real-world problems.
 
@@ -249,7 +249,7 @@ CodeType includes **90 code snippets across C, Python, SQL, HTML, and JavaScript
 | ------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Lead Developer & Digital Transformation Coordinator** | Unnayan Sahayak Sangstha (USS)            | Full-stack platform development, CMS, admin systems, infrastructure, SEO, deployment                |
 | **Web Developer & System Administrator**                               | Department of ICT, Islamic University     | Institutional web systems, registration platform, student services, frontend and system development |
-| **Mentor, Web & IT Committee**                          | IEEE Computer Society Bangladesh Chapter  | React/TypeScript web platform support, technical mentoring, website maintenance                     |                                  |
+| **Mentor, Web & IT Committee**                          | IEEE Computer Society Bangladesh Chapter  | React/TypeScript web platform support, technical mentoring, website maintenance                     |
 | **IT & Digital Skills Trainer**                         | EDGE-ICTIU and other training initiatives | Technology, productivity, web fundamentals, design, and AI-assisted workflows                       |
 
 <p align="center">
@@ -281,9 +281,9 @@ Technology has been only one part of my journey. I also work extensively in **le
 
 ### B.Sc. (Engineering) in Information and Communication Technology
 
-**Islamic University, Bangladesh**
-March 2022 - November 2026 (Expected)
-**Current CGPA: 3.59 / 4.00**
+**Islamic University, Bangladesh**  
+**Graduated:** November 2026
+**CGPA:** 3.58 / 4.00
 
 ### Selected Certifications
 
